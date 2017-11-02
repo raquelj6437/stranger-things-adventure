@@ -2,6 +2,6 @@ You start running but where do you go?
 
 Do you go to Mikes house or the school?
 
-[House]()  
+[House](house.md)  
 
-[School]()
+[School](school.md)
