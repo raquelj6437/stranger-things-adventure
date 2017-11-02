@@ -1,7 +1,5 @@
-You start running but where do you go? 
+You start running but where do you go? Do you go to Mikes house or the school?
 
-Do you go to Mikes house or the school?
+[House](house.md)  
 
-[House]()  
-
-[School]()
+[School](school.md)
