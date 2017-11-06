@@ -4,4 +4,6 @@ Now mike tells you that will isn’t doing very well and you need to go to the l
 
 [close the door](door.md)  
 
+![](../images/death.jpg)
+
 [run away with mike](run-away.md)
