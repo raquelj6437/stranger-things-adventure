@@ -2,7 +2,7 @@
 
 ![](images/logo.png)
 
-The purpose of creating this repository was to create a text-based adventure with linked files. The adventure that my partner and I chose to create was a stranger things because season two of the series recently came out. We also found stranger things to be very interesting.
+The purpose of creating this repository was to create a text-based adventure with linked files. The adventure that my partner and I chose to create was a stranger things because season two of the series recently came out. Our game is made from Elevens point of view and if you make the right decisions you will survive, if you don't well... lets just say you have to find out. ENJOY!
 
 Click to [here](start.md) begin.
 
