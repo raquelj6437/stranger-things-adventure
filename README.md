@@ -1,8 +1,8 @@
 # Stranger Things Adventure
 
-The purpose of creating this repository was to...
-
 ![](images/logo.png)
+
+The purpose of creating this repository was to create a text-based adventure with linked files. The adventure that my partner and I chose to create was a stranger things because season two of the series recently came out. We also found stranger things to be very interesting.
 
 Click to [here](start.md) begin.
 
