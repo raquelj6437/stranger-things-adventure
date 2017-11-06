@@ -2,7 +2,7 @@
 
 The purpose of creating this repository was to...
 
-![](logo.png)
+![logo.png](logo.png)
 
 Click to [here](start.md) begin.
 
